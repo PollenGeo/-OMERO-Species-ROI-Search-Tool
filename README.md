@@ -1,4 +1,4 @@
-# -OMERO-Species-ROI-Search-Tool
+# OMERO-Species-ROI-Search-Tool
 This Python script connects to an OMERO server and searches for specific species  names within ROI (Region of Interest) annotations across images. When matches are found, the script collects relevant metadata and generates a CSV file with direct links to visualize the matching ROIs in OMERO.web.
 
 Additionally, the script can automatically open the first set of results in a web browser 
